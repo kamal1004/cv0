@@ -1,0 +1,173 @@
+body{
+    margin: 0;
+    text-align: center;
+    height:20rem;
+    font-family: 'Urbanist', sans-serif;
+    
+   
+}
+
+.boxa{
+    position: relative;
+    height:16.25rem;
+    width: auto;
+    background-color:#505050;
+    
+}
+
+.boxb{
+    border:0;
+    position: relative;
+    bottom:3.75rem;
+    height: 2.5rem;
+    width: auto;
+    background-color:white;
+}
+
+
+.boxc{
+    position:relative;
+    margin: auto;
+    height:4.375rem;
+    max-width: 25rem;
+    padding: 0px;
+    background-color:#DBA800;
+    bottom:9.375rem;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 1.875rem;
+    text-align:center;
+    text-justify: auto;
+    border-radius:0.625rem;
+}
+
+.img{
+position: relative;
+top:1.25rem;
+width: 11.25rem;
+border-style: dotted;
+border-color:#DBA800;
+border-radius: 6.25rem;
+border-width:4px;
+}
+
+.name{
+    padding-top:1.062rem;
+    font-style:normal;
+    color: #505050;
+}
+
+.intro{
+    position: relative;
+    bottom: 11.25rem;
+    text-align: center;
+    padding: 0.625rem;
+    height: 15px;
+    font-size:70%
+}
+
+.HR{
+    position: relative;
+    bottom:200px;
+    width: auto;
+    height: 2px;
+    background-color:#DBA800;
+}
+
+
+.parent{
+    position: relative;
+    height:auto;
+    bottom:220px;
+    display: flex;
+    
+    
+}
+
+.parent .c1, .c2 {
+            }
+
+.parent .c1 {
+                
+                width: 100%;
+                box-sizing: border-box;
+                margin: 5px;
+                text-align: left;
+                padding-left: 25px;
+                text-align: justify;
+            }
+
+.parent .c2 {
+                
+                width: 100%;
+                box-sizing: border-box;
+                margin: 5px;
+                text-align: left;
+                padding-left:25px;
+                text-align: justify;
+
+}
+.hd{
+    color: gray;
+}
+
+.sb{
+    text-align: center;
+}
+.ul{
+    max-width: 120px;
+    line-height: 1.5;
+}
+
+.we{
+    line-height: 0.3;
+    
+}
+
+.user{
+    color:#DBA800;
+    font-size: 50px;
+    border-style: dashed;
+}
+
+
+
+.html{
+    position: relative;
+    height:auto;
+    display: flex;
+    
+    
+}
+
+.html .a1, .b1 {
+            }
+
+.html .a1 {
+                
+                width: 100%;
+                box-sizing: border-box;
+                margin: 5px;
+                text-align: left;
+                text-align: justify;
+            }
+
+.html .b1 {
+             position: relative;   
+            top:6px;
+            left:10%;
+            width: 100%;
+            max-width:5px;
+            
+
+}
+
+.vertical {
+            border-left: 2px;
+            border-left-color: #DBA800;
+            border-left-style: solid;
+            height: 90% ;      
+            top:40px;
+            position:absolute;
+            left: 52%;
+            left: 50%;
+}
